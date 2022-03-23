@@ -25,4 +25,4 @@ for i in range(0,12):
         balance=contract.functions.balanceOf(MyAddress).call()
         if web3.fromWei(balance, "ether") != 0:
             print(MyAddress)
-        print(web3.fromWei(balance, "ether"))
+            print(web3.fromWei(balance, "ether"))
