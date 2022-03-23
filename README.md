@@ -1,5 +1,5 @@
 # art-of-shitting
-качаем реквайрментс, скачиваем в CMD
+качаем реквайрментс
 (guide)открываем cmd и пишем cd/d  "путь к файлу", потом пишем pip install -r requirements.txt
 ![image](https://user-images.githubusercontent.com/102196172/159601101-0c53b758-5252-401d-af62-fc6a4eae55ea.png)
 затем в эту же папку скачиваем checker и создаем файл input.txt
